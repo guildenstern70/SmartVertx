@@ -1,5 +1,11 @@
 #!/usr/bin/env sh
 
+#
+# Project SmartVertx
+# Copyright (c) Alessio Saltarin, 2020.
+# MIT License
+#
+
 ##############################################################################
 ##
 ##  Gradle start up script for UN*X

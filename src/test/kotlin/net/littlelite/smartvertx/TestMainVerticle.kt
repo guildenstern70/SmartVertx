@@ -1,3 +1,9 @@
+/*
+ * Project SmartVertx
+ * Copyright (c) Alessio Saltarin, 2020.
+ * MIT License
+ */
+
 package net.littlelite.smartvertx
 
 import io.vertx.core.Vertx
